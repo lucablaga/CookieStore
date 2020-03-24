@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(rgba(0,0,50,0.5), rgba(0,0,50,0)), url("background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
+img{
+    height: 300px !important;
+}
+
+.jumbotron{
+    background-position: center;
+    background-image: url("cookies.jpg");
+}
+.jumbotron h1,p{
+    font-family:'Cookie', cursive;
+    color:firebrick;
+    font-size:90px;
+}
+footer p{
+    font-size:30px;
+}
